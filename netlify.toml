@@ -1,0 +1,3 @@
+[build]
+  command = "pip install -r requirements.txt && streamlit run TestGPT.py"
+  functions = "functions"
